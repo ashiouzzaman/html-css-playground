@@ -23,3 +23,9 @@ h1,h2,h3,h4,h5,h6{
     padding-right: 12px;
 
 }
+
+/* Emoji list using span for single element */
+.single-span li{
+    list-style: none;
+    font-size: 20px;
+}
